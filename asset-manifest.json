@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web-wawancara/static/css/main.af32a62d.chunk.css",
+    "main.js": "/web-wawancara/static/js/main.63e35189.chunk.js",
+    "main.js.map": "/web-wawancara/static/js/main.63e35189.chunk.js.map",
+    "runtime-main.js": "/web-wawancara/static/js/runtime-main.da98ac5c.js",
+    "runtime-main.js.map": "/web-wawancara/static/js/runtime-main.da98ac5c.js.map",
+    "static/js/2.42786996.chunk.js": "/web-wawancara/static/js/2.42786996.chunk.js",
+    "static/js/2.42786996.chunk.js.map": "/web-wawancara/static/js/2.42786996.chunk.js.map",
+    "static/js/3.88a62356.chunk.js": "/web-wawancara/static/js/3.88a62356.chunk.js",
+    "static/js/3.88a62356.chunk.js.map": "/web-wawancara/static/js/3.88a62356.chunk.js.map",
+    "index.html": "/web-wawancara/index.html",
+    "static/css/main.af32a62d.chunk.css.map": "/web-wawancara/static/css/main.af32a62d.chunk.css.map",
+    "static/js/2.42786996.chunk.js.LICENSE.txt": "/web-wawancara/static/js/2.42786996.chunk.js.LICENSE.txt",
+    "static/media/base.scss": "/web-wawancara/static/media/Abel-Regular.3843f456.ttf",
+    "static/media/cakru.d8e99c77.png": "/web-wawancara/static/media/cakru.d8e99c77.png",
+    "static/media/kru.84ff4ee0.png": "/web-wawancara/static/media/kru.84ff4ee0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da98ac5c.js",
+    "static/js/2.42786996.chunk.js",
+    "static/css/main.af32a62d.chunk.css",
+    "static/js/main.63e35189.chunk.js"
+  ]
+}
