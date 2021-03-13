@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "nama": "Muhammad Hilmi Fawwaz",
+        "angkatan": 2020,
+        "fakultas": "STEI",
+        "jurusan": "Tenik Telekomunikasi",
+        "hobby": "Tidur",
+        "keluh": "Udah belajar seharian pol, dapet nilai nomor sepatu",
+        "arc": "Tugas menarik :D"
+    },
+    {
+        "id": 1,
+        "nama": " Putri Nurhaliza",
+        "angkatan": 2020,
+        "fakultas": "STEI",
+        "jurusan": "IF",
+        "hobby": "Budak kucing",
+        "keluh": "Sangat melelahkan",
+        "arc": "Pengen belajar bikin web"
+    },
+    {
+        "id": 2,
+        "nama": "Muhammad Rafli Bagaskara",
+        "angkatan": 2020,
+        "fakultas": "STEI",
+        "jurusan": "IF",
+        "hobby": "Rebahan",
+        "keluh": "Sangat melelahkan",
+        "arc": "Pengen buat website keren"
+    },
+    {
+        "id": 3,
+        "nama": "Malik Akbar Hashemi Rafsanjan",
+        "angkatan": 2020,
+        "fakultas": "STEI",
+        "jurusan": "Belum tau",
+        "hobby": "Futsal",
+        "keluh": "Tugas - tugasnya mbuat keos banget",
+        "arc": "Pengen belajar mbuat web"
+    }
+]
